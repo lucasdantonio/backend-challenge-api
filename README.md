@@ -24,8 +24,8 @@ Você deve ter em seu stack obrigatoriamente:
 
  - **Java 8 ou +**
  - **Maven**
- - **Docker**
 
+Não foi possível utilizar docker por conta de um erro no meu windows e por falta de tempo em rodar em uma vm, upei o projeto sem dockerizar mesmo
 A aplicação pode ter testada no seu ambiente, que ao executar estará rodando na porta padrão **8080**, por meio da **Swagger UI** pelo link [/Swagger-ui.html](/Swagger-ui.html)
 
 *E pode também ser testada pelo link:* https://movieapi-challenge.herokuapp.com/swagger-ui.html
