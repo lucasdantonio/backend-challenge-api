@@ -8,7 +8,8 @@
  - **Java 8** - Versão que eu utilizo com frequência
  - **Maven** - Controle de dependências
  - **Spring Boot 2.2.4** - Versão a gosto
- - **PostgreeSQL 42.2.9** - Banco de dados a gosto
+ - **H2 1.4.200** - Versão para testes locais
+ - **PostgreeSQL 42.2.9** - Banco de dados a gosto(usado apenas na versão upada no Heroku)
  - **Lombok 1.18.10** - Usado pra evitar boilerplate code
  - **SpringFox Swagger 2.7.0** - Gosto de utilizar ao criar APIs para gerar
    uma documentação dela e uma parte visual que facilite seu
